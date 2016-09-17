@@ -1,0 +1,38 @@
+body {
+  font-family: "Open Sans", sans-serif;
+}
+#estudio {
+ 
+  max-width:800px;
+  width: auto;
+  position:absolute;
+  left:50%;
+  margin-left:-29%
+
+}
+h3 {
+  color: #6656c7;
+  text-align: center;
+  }
+h4 {
+  color: #6656c7;
+  text-align: center;
+}
+h5 {
+  color: #6656c7;
+  font-family: "Dragon is Coming";
+  font-size: 50pt;
+  font-weight: normal;
+  line-height: 5%;
+  margin: 4%;
+}
+
+table {color: #6656c7;
+  font-family: "Dragon is Coming";
+  font-size: 50pt;
+  font-weight: normal;
+  position: absolute;
+  left:50%;
+  margin-left:-9%;
+  text-align: center;
+}
